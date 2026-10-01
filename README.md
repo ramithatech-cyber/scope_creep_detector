@@ -3,6 +3,8 @@
 An AI-powered web application to detect and analyze **scope creep** in software projects — built with Streamlit and scikit-learn.
 
 > **SEPM Mini Project** | Software Engineering & Project Management
+>
+> Looking for the browser-based version with budget/timeline analysis? See [Scope-Creep-Detector (ScopeSense AI)](https://github.com/ramithatech-cyber/Scope-Creep-Detector).
 
 ---
 
@@ -45,6 +47,7 @@ scope_creep_detector/
 ├── recommendation.py      # Project management recommendations
 ├── requirements.txt       # Python dependencies
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
@@ -54,7 +57,7 @@ scope_creep_detector/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/scope_creep_detector.git
+git clone https://github.com/ramithatech-cyber/scope_creep_detector.git
 cd scope_creep_detector
 ```
 
@@ -108,4 +111,4 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 ## 📄 License
 
-This project is for educational purposes under the SEPM course.
+This project was built for the SEPM course and is released under the [MIT License](LICENSE).
